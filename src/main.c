@@ -101,7 +101,7 @@ void handle_minute_tick(AppContextRef ctx, PebbleTickEvent *t) {
 
 	
   if (clock_is_24h_style()) {
-    time_format = "$x%R";
+    time_format = "$x%H%M";
   } else {
     time_format = "$x%I%M";
   }
