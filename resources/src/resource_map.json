@@ -1,0 +1,16 @@
+{
+    "media": [
+        {
+            "defName": "FONT_TRIFORCE_38",
+            "type": "font",
+            "file": "fonts/Triforce_38.ttf"
+        },
+        {
+            "defName": "FONT_TRIFORCE_22",
+            "type": "font",
+            "file": "fonts/Triforce_22.ttf"
+        }
+    ],
+    "friendlyVersion": "VERSION",
+    "versionDefName": "APP_RESOURCES"
+}
